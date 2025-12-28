@@ -67,8 +67,7 @@
   <h2>10. Contact Us</h2>
   <p>If you have any questions or concerns regarding this Privacy Policy, please contact us at:</p>
   <ul>
-    <li>Email: miracburakgurkan@gmail.com</li>
-    <li>Website: <a href="https://www.phototrackpro.com">www.phototrackpro.com</a></li>
+    
   </ul>
 
 </body>
